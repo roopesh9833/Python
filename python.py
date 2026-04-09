@@ -1,4 +1,4 @@
-Hello roopesh this is the final file 
+
 def describe_game():
     game = "GTA"
     description = "is a bustling game where there is always something to do."
@@ -8,7 +8,4 @@ def describe_game():
 # Run the function
 describe_game()
 
-sample python program 
-sample python program 
-sample python program 
-
+print("hello world")
