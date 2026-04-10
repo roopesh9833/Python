@@ -9,3 +9,17 @@ def describe_game():
 describe_game()
 
 print("hello world")
+
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+
